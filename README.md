@@ -12,3 +12,22 @@
 ## 11. What are the main features or functionalities that make your software stand out?
 ## 12. What data is available regarding the market size and growth potential for your software?
 ## 13. How can understanding market trends inform your software’s positioning and development?
+
+ANSWERS: 
+
+1. It helps in resource management, quality assurance and cost control. Project managers can ensure deadlines are met by priortizing task and ensuring effective collaboration.
+2. It ensures that the available resources is enough to execute the project. Budget overrun can be prevented by ensuring project task are completed within the stipulated timeframe.
+3. Using Agile Methodology, task are done in an iterative and incremental apprroach while Waterfall methodology uses a sequential appraoch.
+   Advantage and Disdvantage Of Agile Over Waterfall include;
+   - Agile supports a quick response and regular feedback from customers WHILE Waterfall has a clear structure of how task are to be handled and are easy to be managed.
+4. bjhj
+5. Some of the methods that can be implemented to ensure Quality Assurance include: Testing and Debugging, Code Review.
+6. Defining a project scope helps the project manager set a project boundry and write out a clear objective which will serve as a template for executing a software project in a stipulated timeframe.  WorkBreakdown Structure is the breakdown of task into smaller components. It is an important aspect as it will allow individual know their roles and responsiblity as regards the project.
+7. Developing a detailed project schedule will provide a clear roadmap of the project timeline. Using Gantt Chart helps to vissualise how much time and resource needed to actualise a project.
+8. The stress attached to seeking for new homes either for rent/sale.
+9. It gives a bearing as to what features are needed to be put in place right form the begining making it easier to develop an effective solution.
+10. This solution helps you in the area of searching for new homes in your desired location at the tip of your finger.
+11. bbb
+12. No data yet
+13. It informs you about the prospect of your software. 
+
